@@ -14,12 +14,12 @@ Android Engineer | Clean Architecture | Kotlin | Compose
   </a>
 
   <!-- Google Play -->
-  <a href="#">
+  <a href="https://play.google.com/store/apps/dev?id=com.afquintana">
     <img src="https://img.shields.io/badge/Google_Play-34A853?style=flat&logo=google-play&logoColor=white"/>
   </a>
 
   <!-- Maven -->
-  <a href="#">
+  <a href="https://central.sonatype.com/namespace/com.afquintana">
     <img src="https://img.shields.io/badge/Maven_Central-C71A36?style=flat&logo=apachemaven&logoColor=white"/>
   </a>
 
