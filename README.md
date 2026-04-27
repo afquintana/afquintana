@@ -15,12 +15,12 @@ Android Engineer | Clean Architecture | Kotlin | Compose
 
   <!-- Google Play -->
   <a href="https://play.google.com/store/apps/dev?id=com.afquintana">
-    <img src="https://img.shields.io/badge/Google_Play-34A853?style=flat&logo=google-play&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Google_Play-7B1FA2?style=flat&logo=google-play&logoColor=white"/>
   </a>
 
   <!-- Chrome Web Store -->
   <a href="https://chromewebstore.google.com/search/afquintana">
-    <img src="https://img.shields.io/badge/Chrome_Web_Store-4285F4?style=flat&logo=googlechrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Chrome_Web_Store-34A853?style=flat&logo=googlechrome&logoColor=white"/>
   </a>
 
   <!-- Maven -->
