@@ -14,7 +14,7 @@ Android Engineer | Clean Architecture | Kotlin | Compose
   </a>
 
   <!-- Google Play -->
-  <a href="https://play.google.com/store/apps/dev?id=com.afquintana">
+  <a href="https://play.google.com/store/apps/developer?id=afquintana">
     <img src="https://img.shields.io/badge/Google_Play-34A853?style=flat&logo=google-play&logoColor=white"/>
   </a>
 
